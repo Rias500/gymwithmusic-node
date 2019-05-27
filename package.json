@@ -37,7 +37,7 @@
     "forever": "~0.10.11",
     "view-helpers": "~0.1.4",
     "mean-logger": "0.0.1",
-    "mime": "^1.2.11",
+    "mime": "^2.4.3",
     "faye": "^1.0.1"
   },
   "devDependencies": {
